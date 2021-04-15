@@ -1,0 +1,12 @@
+C:\Users\Pedro\Desktop\Cuatrimestre 5\Programacion II\Agenda_Contacto-master\PatronAbstracFactory_CSharp\CalculadoraPlatanera\bin\Debug\CalculadoraPlatanera.exe.config
+C:\Users\Pedro\Desktop\Cuatrimestre 5\Programacion II\Agenda_Contacto-master\PatronAbstracFactory_CSharp\CalculadoraPlatanera\bin\Debug\CalculadoraPlatanera.exe
+C:\Users\Pedro\Desktop\Cuatrimestre 5\Programacion II\Agenda_Contacto-master\PatronAbstracFactory_CSharp\CalculadoraPlatanera\bin\Debug\CalculadoraPlatanera.pdb
+C:\Users\Pedro\Desktop\Cuatrimestre 5\Programacion II\Agenda_Contacto-master\PatronAbstracFactory_CSharp\CalculadoraPlatanera\bin\Debug\Services.dll
+C:\Users\Pedro\Desktop\Cuatrimestre 5\Programacion II\Agenda_Contacto-master\PatronAbstracFactory_CSharp\CalculadoraPlatanera\bin\Debug\Models.dll
+C:\Users\Pedro\Desktop\Cuatrimestre 5\Programacion II\Agenda_Contacto-master\PatronAbstracFactory_CSharp\CalculadoraPlatanera\bin\Debug\Services.pdb
+C:\Users\Pedro\Desktop\Cuatrimestre 5\Programacion II\Agenda_Contacto-master\PatronAbstracFactory_CSharp\CalculadoraPlatanera\bin\Debug\Models.pdb
+C:\Users\Pedro\Desktop\Cuatrimestre 5\Programacion II\Agenda_Contacto-master\PatronAbstracFactory_CSharp\CalculadoraPlatanera\obj\Debug\CalculadoraPlatanera.csprojAssemblyReference.cache
+C:\Users\Pedro\Desktop\Cuatrimestre 5\Programacion II\Agenda_Contacto-master\PatronAbstracFactory_CSharp\CalculadoraPlatanera\obj\Debug\CalculadoraPlatanera.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Cuatrimestre 5\Programacion II\Agenda_Contacto-master\PatronAbstracFactory_CSharp\CalculadoraPlatanera\obj\Debug\CalculadoraPlatanera.csproj.CopyComplete
+C:\Users\Pedro\Desktop\Cuatrimestre 5\Programacion II\Agenda_Contacto-master\PatronAbstracFactory_CSharp\CalculadoraPlatanera\obj\Debug\CalculadoraPlatanera.exe
+C:\Users\Pedro\Desktop\Cuatrimestre 5\Programacion II\Agenda_Contacto-master\PatronAbstracFactory_CSharp\CalculadoraPlatanera\obj\Debug\CalculadoraPlatanera.pdb

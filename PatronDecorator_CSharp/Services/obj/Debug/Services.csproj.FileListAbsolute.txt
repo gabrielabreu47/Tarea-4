@@ -1,0 +1,6 @@
+C:\Users\Pedro\Desktop\Cuatrimestre 5\Programacion II\Agenda_Contacto-master\CatalogoDeVehiculos\Services\bin\Debug\Services.dll
+C:\Users\Pedro\Desktop\Cuatrimestre 5\Programacion II\Agenda_Contacto-master\CatalogoDeVehiculos\Services\bin\Debug\Services.pdb
+C:\Users\Pedro\Desktop\Cuatrimestre 5\Programacion II\Agenda_Contacto-master\CatalogoDeVehiculos\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Users\Pedro\Desktop\Cuatrimestre 5\Programacion II\Agenda_Contacto-master\CatalogoDeVehiculos\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Cuatrimestre 5\Programacion II\Agenda_Contacto-master\CatalogoDeVehiculos\Services\obj\Debug\Services.dll
+C:\Users\Pedro\Desktop\Cuatrimestre 5\Programacion II\Agenda_Contacto-master\CatalogoDeVehiculos\Services\obj\Debug\Services.pdb

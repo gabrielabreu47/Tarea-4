@@ -1,0 +1,10 @@
+C:\Users\Pedro\Desktop\Cuatrimestre 5\Programacion II\Agenda_Contacto-master\CatalogoDeVehiculos\CatalogoDeVehiculos\bin\Debug\CatalogoDeVehiculos.exe.config
+C:\Users\Pedro\Desktop\Cuatrimestre 5\Programacion II\Agenda_Contacto-master\CatalogoDeVehiculos\CatalogoDeVehiculos\bin\Debug\CatalogoDeVehiculos.exe
+C:\Users\Pedro\Desktop\Cuatrimestre 5\Programacion II\Agenda_Contacto-master\CatalogoDeVehiculos\CatalogoDeVehiculos\bin\Debug\CatalogoDeVehiculos.pdb
+C:\Users\Pedro\Desktop\Cuatrimestre 5\Programacion II\Agenda_Contacto-master\CatalogoDeVehiculos\CatalogoDeVehiculos\bin\Debug\Services.dll
+C:\Users\Pedro\Desktop\Cuatrimestre 5\Programacion II\Agenda_Contacto-master\CatalogoDeVehiculos\CatalogoDeVehiculos\bin\Debug\Services.pdb
+C:\Users\Pedro\Desktop\Cuatrimestre 5\Programacion II\Agenda_Contacto-master\CatalogoDeVehiculos\CatalogoDeVehiculos\obj\Debug\CatalogoDeVehiculos.csprojAssemblyReference.cache
+C:\Users\Pedro\Desktop\Cuatrimestre 5\Programacion II\Agenda_Contacto-master\CatalogoDeVehiculos\CatalogoDeVehiculos\obj\Debug\CatalogoDeVehiculos.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Cuatrimestre 5\Programacion II\Agenda_Contacto-master\CatalogoDeVehiculos\CatalogoDeVehiculos\obj\Debug\CatalogoDeVehiculos.csproj.CopyComplete
+C:\Users\Pedro\Desktop\Cuatrimestre 5\Programacion II\Agenda_Contacto-master\CatalogoDeVehiculos\CatalogoDeVehiculos\obj\Debug\CatalogoDeVehiculos.exe
+C:\Users\Pedro\Desktop\Cuatrimestre 5\Programacion II\Agenda_Contacto-master\CatalogoDeVehiculos\CatalogoDeVehiculos\obj\Debug\CatalogoDeVehiculos.pdb

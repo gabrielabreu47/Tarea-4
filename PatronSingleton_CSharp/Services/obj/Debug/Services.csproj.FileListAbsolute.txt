@@ -1,0 +1,12 @@
+C:\Users\Pedro\Documents\Tareas\Programacion\Agenda de Contacto\Services\bin\Debug\Services.dll
+C:\Users\Pedro\Documents\Tareas\Programacion\Agenda de Contacto\Services\bin\Debug\Services.pdb
+C:\Users\Pedro\Documents\Tareas\Programacion\Agenda de Contacto\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Users\Pedro\Documents\Tareas\Programacion\Agenda de Contacto\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\Tareas\Programacion\Agenda de Contacto\Services\obj\Debug\Services.dll
+C:\Users\Pedro\Documents\Tareas\Programacion\Agenda de Contacto\Services\obj\Debug\Services.pdb
+C:\Users\Pedro\Desktop\Cuatrimestre 5\Programacion II\Agenda_Contacto-master\Agenda_Contacto-master\Services\bin\Debug\Services.dll
+C:\Users\Pedro\Desktop\Cuatrimestre 5\Programacion II\Agenda_Contacto-master\Agenda_Contacto-master\Services\bin\Debug\Services.pdb
+C:\Users\Pedro\Desktop\Cuatrimestre 5\Programacion II\Agenda_Contacto-master\Agenda_Contacto-master\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Users\Pedro\Desktop\Cuatrimestre 5\Programacion II\Agenda_Contacto-master\Agenda_Contacto-master\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Cuatrimestre 5\Programacion II\Agenda_Contacto-master\Agenda_Contacto-master\Services\obj\Debug\Services.dll
+C:\Users\Pedro\Desktop\Cuatrimestre 5\Programacion II\Agenda_Contacto-master\Agenda_Contacto-master\Services\obj\Debug\Services.pdb
